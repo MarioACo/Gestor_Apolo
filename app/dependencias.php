@@ -3,6 +3,7 @@
 <link rel="stylesheet" href="<?=SERVIDOR?>css/b5/b5.min.css">
 <link rel="stylesheet" href="<?=SERVIDOR?>css/fontawesome/css/all.css">
 <link rel="stylesheet" href="<?=SERVIDOR?>js/select2/css/select2.css">
+<link rel="stylesheet" href="<?=SERVIDOR?>css/style.css">
 
 
 <script src="<?=SERVIDOR?>js/jquery/jq.js"></script>

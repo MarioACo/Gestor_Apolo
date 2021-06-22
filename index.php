@@ -35,6 +35,21 @@
             require_once 'view/inicio_admin.php';
             break;
         }
+
+        case 'inicio_alumno':{
+          require_once 'view/alumno/inicio.php';
+          break;
+        }
+
+        case 'horario_alumno':{
+          require_once 'view/alumno/horario.php';
+          break;
+        }
+
+        case 'archivos_alumno':{
+          require_once 'view/alumno/archivo.php';
+          break;
+        }
         
         default:{ 
           require_once 'view/login.php';
